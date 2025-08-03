@@ -20,8 +20,8 @@ It is also compatible with [Bruce](https://github.com/pr3y/Bruce), offering exte
   - **MicroSD Card Reader**
   - **IR Transmitter and Receiver**
 - Compact layout with direct module integration
-- Designed in **EasyEDA**
-- Planned manufacturing via **PCBWay**
+- Designed in [EasyEDA](https://www.easyeda.com)
+- Planned manufacturing via [PCBWay](https://www.pcbway.com)
 
 ---
 
@@ -48,8 +48,9 @@ Contributions and feedback are welcome. You can help by:
 - Suggesting improvements to the schematic or layout
 - Sharing your experience with integration
 
-**Please use the [Discussions tab](../../discussions) for general questions, ideas, and community discussions.**  
-**Use the Issues tab only for actual bugs or problems with the PCB design.**
+Please use the **Disscusion Tab** for general questions, ideas, and community discussions.
+
+Use the Issues tab only for actual bugs or problems with the PCB design.
 
 To stay updated and connect with the community, consider joining the  
 👉 [HackLab Discord Server](https://discord.gg/R8QJKCFYr9)
