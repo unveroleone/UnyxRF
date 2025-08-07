@@ -4,6 +4,10 @@ UnyxRF is an open-source PCB designed for the **M5StickC Plus 2**, enabling dire
 The goal of this project is to provide a compact and flexible board that integrates key modules for RF and storage development.  
 It is also compatible with [Bruce](https://github.com/pr3y/Bruce), offering extended use cases for open-source development.
 
+Thanks to [sleepymorph](https://github.com/sleepymorph) for fixing all schematic issues!  
+I’ve also redesigned everything so that it can be easily soldered at home without special equipment.  
+I am currently ordering the boards for production.
+
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1JCBF441uXJe5AW_1Rcflws_TXJ1qTaat" alt="UnyxRF PCB Top" width="400"/>
   <img src="https://drive.google.com/uc?export=view&id=1ltJ8m77_xGqU1A-Ico2pYQ-jA6ZSnnTs" alt="UnyxRF PCB Bottom" width="400"/>
@@ -20,23 +24,9 @@ It is also compatible with [Bruce](https://github.com/pr3y/Bruce), offering exte
   - **MicroSD Card Reader**
   - **IR Transmitter and Receiver**
 - Compact layout with direct module integration
+- Easy to solder at home
 - Designed in [EasyEDA](https://www.easyeda.com)
 - Planned manufacturing via [PCBWay](https://www.pcbway.com)
-
----
-
-## Status
-
-⚠️ **Important Note**  
-This project is currently in an **experimental stage**.  
-The PCB design has **not yet been fully tested**, meaning it may not function as intended.  
-Use it at your own risk.
-
-I currently have:  
-- **4 prototype boards** (semi-assembled, including parts)  
-- **5 unassembled boards**  
-
-If you are interested in testing, feel free to reach out.
 
 ---
 
@@ -48,9 +38,9 @@ Contributions and feedback are welcome. You can help by:
 - Suggesting improvements to the schematic or layout
 - Sharing your experience with integration
 
-Please use the **Disscusion Tab** for general questions, ideas, and community discussions.
+Please use the **Discussion Tab** for general questions, ideas, and community discussions.
 
-Use the Issues tab only for actual bugs or problems with the PCB design.
+Use the **Issues** tab only for actual bugs or problems with the PCB design.
 
 To stay updated and connect with the community, consider joining the  
 👉 [HackLab Discord Server](https://discord.gg/R8QJKCFYr9)
