@@ -1,10 +1,8 @@
-Item #,*Designator,*Qty,Manufacturer,*Mfg Part #,Description / Value,Vendor Part #,*Package/Footprint,*Unit Price,*Delivery Time,*Actual Purchase Mfg Part #
-1,J1,1,Samtec,,1x8 header,LCSC『 』C190820,HDR-M-2.54_1X8,"$0,560",,TSW-108-08-T-S-RA
-2,"U1,U2",2,TE Connectivity / Alcoswitch,,DIP SWITCH 3,,DIP_SWITCH_3SWITCHES,"$1,232",7-10 Workdays,2454982-2
-3,GRJ3,1,JST,,VLS.JST.GROVE.PORT 2.0MM,,GROVE_1X04,"$0,061",,S4B-PH-K-S(LF)(SN)
-4,H4,1,Samtec,,CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X3_TX,LCSC『 』C146690,HDR-F-2.54_1X3,"$1,451",7-10 Workdays,SSW-103-02-G-S-RA-LL
-5,TFCARD1,1,SOFNG(硕方),TF-15x15,TF-15×15,LCSC『 』C111196,SD-MICRO-1,"$0,151",,
-6,H3,1,Samtec,,CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X3_RX,LCSC『 』C146690,HDR-F-2.54_1X3,"$1,451",7-10 Workdays,SSW-103-02-G-S-RA-LL
-7,H2,1,Ckmtw(灿科盟),,2X4 2.54MM FEMALE HEADER,LCSC『 』C239344,HDR-F-2.54_2X4,"$0,143",,B-2200S08P-B120
-8,Q1,1,Diotec Semiconductor,,BC547A,,TO92-INLINE,"$0,066",7-10 Workdays,BC547A
-9,"R1,R2,R3,R4,R5",5,YAGEO(国巨),,10k,,R0603,"$0,002",,RC0603FR-071KL
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price,Pins
+"1","Micro SD CARD Module","PCB1","MICROSD-CARD","1","","","","","","6"
+"2","VLS.JST.GROVE.PORT 2.0MM","GRJ3","GROVE_1X04","1","?","","","","","4"
+"3","CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X3_TX","H4","HDR-F-2.54_1X3","1","","","","LCSC","C146690","0.086","3"
+"4","CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X3_RX","H3","HDR-F-2.54_1X3","1","","","","LCSC","C146690","0.086","3"
+"5","2X4 2.54MM FEMALE HEADER","H2","HDR-F-2.54_2X4","1","","","","LCSC","C239344","0.154","8"
+"6","DIP switchEI-04","SW1","SW-TH_DIPSWITCHEI-04","1","拨码开关EI-04","圜达","LCSC","C99987","0.493","8"
+"7","1x8 header","J1","HDR-M-2.54_1X8","1","","","","LCSC","C190820","0.041","8"
