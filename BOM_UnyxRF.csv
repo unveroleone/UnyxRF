@@ -1,8 +1,0 @@
-Item #,*Designator,*Qty,Manufacturer,*Mfg Part #,Description / Value,Vendor Part #,*Package/Footprint,*Unit Price,*Delivery Time,*Actual Purchase Mfg Part #
-1,J1,1,,,"1x8 header",LCSC『 』C190820,HDR-M-2.54_1X8,"$0,041",, 
-2,GRJ3,1,JST,,VLS.JST.GROVE.PORT 2.0MM,,GROVE_1X04,"$0,000",, 
-3,H4,1,,,"CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X3_TX",LCSC『 』C146690,HDR-F-2.54_1X3,"$0,086",, 
-4,H3,1,,,"CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X3_RX",LCSC『 』C146690,HDR-F-2.54_1X3,"$0,086",, 
-5,H2,1,,,"2X4 2.54MM FEMALE HEADER",LCSC『 』C239344,HDR-F-2.54_2X4,"$0,154",, 
-6,SW1,1,圜达,拨码开关EI-04,DIP switchEI-04,LCSC『 』C99987,SW-TH_DIPSWITCHEI-04,"$0,493",, 
-7,PCB1,1,,,"Micro SD CARD Module",,MICROSD-CARD,"$0,000",, 
