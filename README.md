@@ -6,11 +6,11 @@ It is fully compatible with [Bruce](https://github.com/pr3y/Bruce), expanding it
 
 A big thanks to [sleepymorph](https://github.com/sleepymorph) for fixing all schematic issues!
 I’ve redesigned the board so it can be **easily soldered at home** without specialized equipment.
-The first production batch is currently on order.
+The second production batch is currently on order.
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1JCBF441uXJe5AW_1Rcflws_TXJ1qTaat" alt="UnyxRF PCB Top" width="400"/>
-  <img src="https://drive.google.com/uc?export=view&id=1ltJ8m77_xGqU1A-Ico2pYQ-jA6ZSnnTs" alt="UnyxRF PCB Bottom" width="400"/>
+  <img src="assets/front.png" alt="UnyxRF PCB Top" width="40%"/>
+  <img src="assets/back.png" alt="UnyxRF PCB Bottom" width="41.15%"/>
 </div>
 
 ---
@@ -71,5 +71,10 @@ Join the community here:
 
 ## License
 
-Released under the **MIT License**.
-You’re free to use, modify, and distribute it under the same terms.
+This PCB design is licensed under the  
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+You are free to use, modify, and share this design **for personal and educational purposes only**.  
+**Commercial use, resale, or distribution for profit is strictly prohibited.**
+
+![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
