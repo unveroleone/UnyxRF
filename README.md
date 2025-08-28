@@ -42,7 +42,7 @@ This is an **open-source project**, so you can:
 
 2. **Buy from me**
 
-   * If you prefer a ready-to-use or pre-assembled board, you can DM me.
+   * If you prefer a ready-to-use or pre-assembled board, please fill out this [form](https://sly-cod-b11.notion.site/25d9f7eb0dc78000953bd8a7490ef365?pvs=105)
    * Availability depends on my stock – I can ship directly if I have units ready.
 
 3. **DIY Build**
